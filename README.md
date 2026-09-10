@@ -25,7 +25,7 @@ _계획 없는 PR 이 머지되지 못하게 만들고, 파일을 못 고치는 
 아래 버튼으로 이 실습을 여러분 계정에 복사한 뒤, **20초 정도** 기다렸다가
 페이지를 **새로고침** 하세요.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mct-gh&template_name=gh600-plan-gate&owner=%40me&name=gh600-plan-gate&description=GH-600+Lab+B+-+Plan+gates+and+tool+boundaries&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mct-gh&template_name=gh-600-plan-gate&owner=%40me&name=gh-600-plan-gate&description=GH-600+Lab+B+-+Plan+gates+and+tool+boundaries&visibility=public)
 
 <details>
 <summary>문제가 있나요? 🤷</summary><br/>
